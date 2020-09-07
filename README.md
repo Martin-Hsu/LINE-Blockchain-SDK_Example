@@ -1,7 +1,8 @@
-# C# LINE-Blockchain-SDK_Example
-Example of LINE.Blockchain.SDK 
+# C# LINE-Blockchain-SDK
+You can try C# SDK LINE.Blockchain.SDK on Nuget (https://www.nuget.org/packages/LINE.Blockchain.SDK/)  
+The example of LINE.Blockchain.SDK is on github (https://github.com/Martin-Hsu/LINE-Blockchain-SDK_Example)
 
-Alpha version for LINE Blockchain Developer. I implement the API with LINE Blockchain Developer doc (https://docs-blockchain.line.biz/api-guide/)
+Alpha version for LINE Blockchain Developer. I implement the API with LINE Blockchain Developer doc.
 
 # How to use?  For example:
 ## ListAllServiceTokens example
@@ -35,6 +36,7 @@ RetrieveServiceInformation
 ## Category: Service-tokens
 ```csharp
 ListAllServiceTokens
+
 RetrieveServiceTokenInformation
 ```
 
