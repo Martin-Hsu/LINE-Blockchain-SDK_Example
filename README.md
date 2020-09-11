@@ -29,15 +29,23 @@ var result = api.RetrieveServiceInformation(serviceId);
 ```
 
 # Now support functions for APIManager :
-## Category: Services
+## Category: Services (--Finish--)
 ```csharp
 RetrieveServiceInformation
 ```
-## Category: Service-tokens
+## Category: Service-tokens (--Finish--)
 ```csharp
 ListAllServiceTokens
 
 RetrieveServiceTokenInformation
+
+UpdateServiceTokenInformation
+
+MintAServiceToken
+
+BurnAServiceToken
+
+ListAllServiceTokenHolders
 ```
 
 
